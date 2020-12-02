@@ -1,0 +1,13 @@
+4136ab85b6107459333c49609826ba5b *DESCRIPTION
+10cfd83b466b5246db81301378d2cf55 *NAMESPACE
+272840cfd0a96b8cb37796b89af0f6e4 *NEWS.md
+a05a0811457aa8b7c80babd81ee3d34f *R/shinyfilter.r
+07102dafa502297ccfdcb875ec6852ea *README.md
+15d7b987c7455c6e4fe5dc6054012b3e *inst/cars.csv
+c02b13b08419fe438fac24e71f5aa62b *man/define_filters.Rd
+60a39a0baba879c682195a56afc6e57a *man/event.Rd
+d48da7a44a60c766c8f6b7b8351c0147 *man/figures/logo.png
+dc1f4dd2e934e64fe9e91786f666c72b *man/figures/shinyfilter_animated.gif
+9fcfd3cfb29a4d9c031ac4f1bc3f8908 *man/update_filters.Rd
+7aff13105b912334e9503699e8bf9ca4 *man/update_tooltips.Rd
+aba0277341eca352a5f90278b00aa3f5 *man/use_tooltips.Rd
